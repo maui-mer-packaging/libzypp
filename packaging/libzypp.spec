@@ -15,8 +15,8 @@ BuildRequires:  gcc-c++ >= 4.6
 BuildRequires:  gettext-devel
 BuildRequires:  libxml2-devel
 BuildRequires:  pkgconfig(libproxy-1.0)
-BuildRequires:  libsolv-devel >= 0.1.0
-Requires:       libsolv-tools >= 0.1.0
+BuildRequires:  libsolv-devel >= 0.3.0
+Requires:       libsolv-tools >= 0.3.0
 BuildRequires:  expat-devel
 BuildRequires:  glib2-devel
 BuildRequires:  popt-devel
