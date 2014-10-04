@@ -2,7 +2,7 @@ Name:           libzypp
 License:        GPL v2 or later
 Group:          System/Packages
 Summary:        Package, Patch, Pattern, and Product Management
-Version:        13.9.0
+Version:        13.10.0
 Release:        1
 Source:         %{name}-%{version}.tar.xz
 Source1:        %{name}-rpmlintrc
